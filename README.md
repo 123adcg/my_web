@@ -1,2 +1,5 @@
-# my_web
-我的第一个前后端分离项目
+# 项目
+  这是一个内容管理系统
+
+- 前端 Vue + ElementUI 
+- 后端 egg + sequelize + mysql
